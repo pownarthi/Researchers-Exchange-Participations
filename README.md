@@ -3,4 +3,4 @@ A web application that provides platform for researchers to participate in each 
 serious participants is always a burden on a researcher's shoulder, this platform gives researchers the opportunity to 
 do that effectively and in a suitable time.
 
-One can find the Web Archive file of the web application here.
+One can find the Web Archive file and Database script of the web application here.
